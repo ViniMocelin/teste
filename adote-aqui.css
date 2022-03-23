@@ -1,12 +1,3 @@
-header{
-    width: 100%;
-    height: 70px;
-    display: flex;
-    justify-content: space-between;
-}
-li::selection{
-    background-color: khaki;
-}
-h1::selection{
-    background-color: antiquewhite;
+*{
+    margin: auto;
 }
